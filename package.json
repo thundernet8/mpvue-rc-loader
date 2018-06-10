@@ -1,6 +1,6 @@
 {
     "name": "mpvue-rc-loader",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Mpvue file to raw miniprogram component loader",
     "main": "index.js",
     "repository": "git@github.com:thundernet8/mpvue-rc-loader.git",
